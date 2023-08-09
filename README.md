@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaBlBsAs
+- 👋 Hi, I’m @PetitJ
 - 👀 I’m interested in langauges, dogs, soccer and not much more
 - 🌱 I’m currently learning cibersecurity and back-end programming
 - 💞️ I’m looking to collaborate on nothing by the moment
